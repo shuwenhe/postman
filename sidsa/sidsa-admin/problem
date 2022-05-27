@@ -1,0 +1,5 @@
+problem
+GET
+http://127.0.0.1:8000/api/v1/work-order/problem
+token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhc2NvcGUiOiIiLCJleHAiOjQ4MDQxNDg1NjEsImlkZW50aXR5IjoyNywibmljZSI6InNpZHNhIiwib3JpZ19pYXQiOjE2NTA1MTI1NjEsInJvbGVpZCI6MSwicm9sZWtleSI6ImFkbWluIiwicm9sZW5hbWUiOiLns7vnu5_nrqHnkIblkZgifQ.RTjHDBHW7O-T7R_eUAzoDGuTEnhxvgcTnkqTrQ-_PRQ
